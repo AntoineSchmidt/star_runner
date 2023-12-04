@@ -1,0 +1,61 @@
+{
+  "background": [
+    { "id": "a", "pos": [1 , 1], "height": 15 },
+    { "id": "c", "pos": [17, 2], "height":  8 }
+  ],
+  "solids": [
+    { "id": 1, "pos": [ 0, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 1, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 2, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 3, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 4, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 5, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 6, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 7, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 8, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [ 9, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [10, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [11, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [12, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [13, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [14, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [15, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [16, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [17, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [18, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [19, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [20, 19], "comment": "ground floor" },
+    { "id": 1, "pos": [21, 19], "comment": "ground floor" },
+    { "id": 3, "pos": [10, 18], "comment": "ladder" },
+    { "id": 3, "pos": [10, 17], "comment": "ladder" },
+    { "id": 3, "pos": [10, 16], "comment": "ladder" },
+    { "id": 1, "pos": [ 7, 16], "comment": "floor" },
+    { "id": 1, "pos": [ 8, 16], "comment": "floor" },
+    { "id": 1, "pos": [ 9, 16], "comment": "floor" },
+    { "id": 1, "pos": [11, 16], "comment": "floor" },
+    { "id": 1, "pos": [12, 16], "comment": "floor" },
+    { "id": 1, "pos": [13, 16], "comment": "floor" },
+
+    { "id": 2, "pos": [16, 12], "comment": "floor" },
+    { "id": 2, "pos": [17, 12], "comment": "floor" },
+    { "id": 2, "pos": [18, 12], "comment": "floor" },
+    { "id": 1, "pos": [19, 12], "comment": "floor" },
+    { "id": 1, "pos": [20, 12], "comment": "floor" },
+    { "id": 1, "pos": [21, 12], "comment": "floor" },
+    { "id": 1, "pos": [22, 12], "comment": "floor" },
+    { "id": 1, "pos": [23, 12], "comment": "floor" },
+    { "id": 1, "pos": [24, 12], "comment": "floor" },
+    { "id": 1, "pos": [25, 12], "comment": "floor" },
+    { "id": 1, "pos": [26, 12], "comment": "floor" },
+    { "id": 1, "pos": [27, 12], "comment": "floor" }
+  ],
+  "stars": [
+    { "id": 4, "pos": [26, 11] },
+    { "id": 5, "pos": [16, 11], "timer": 5 }
+  ],
+  "enemys": [
+    { "id": 6, "pos": [2, 18] },
+    { "id": 7, "pos": [8, 15] }
+  ],
+  "player": { "pos": [22, 11] }
+}

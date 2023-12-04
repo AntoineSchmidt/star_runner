@@ -1,0 +1,25 @@
+{
+  "levels": [
+    "level0",
+    "level1"
+  ],
+  "assets": [
+    {"id": "p", "src": ["assets/player.svg", "assets/player_l.svg", "assets/player_r.svg"]},
+    {"id": "a", "src": ["assets/logo_1.svg", "assets/logo_2.svg", "assets/logo_3.svg", "assets/logo_4.svg"]},
+    {"id": "c", "src": ["assets/controls.svg"], "comment": "game instruction"},
+    {"id": "h", "src": ["assets/heart.svg"], "comment": "heart"},
+    {"id": 1, "src": ["assets/block.svg"], "comment": "block"},
+    {"id": 2, "src": ["assets/block_.svg"], "comment": "block vanish"},
+    {"id": 3, "src": ["assets/ladder.svg"], "comment": "ladder"},
+    {"id": 4, "src": ["assets/star.svg", "assets/star_collected.svg"], "comment": "star"},
+    {"id": 5, "src": ["assets/star_.svg", "assets/star_collected.svg"], "comment": "star vanish"},
+    {"id": 6, "src": ["assets/enemy.svg"], "comment": "enemy"},
+    {"id": 7, "src": ["assets/enemy_.svg"], "comment": "enemy smart"}
+  ],
+  "assets_sounds": [
+    {"id": "a", "src": ["assets/sounds/background.mp3", "assets/sounds/background_game.mp3"]},
+    {"id": "p", "src": ["assets/sounds/player.mp3", "assets/sounds/player_.mp3"]},
+    {"id": 4, "src": ["assets/sounds/star.mp3"]},
+    {"id": 5, "src": ["assets/sounds/star_.mp3"]}
+  ]
+}
